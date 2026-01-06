@@ -63,7 +63,7 @@ This project addresses these gaps by providing a **unified, region-aware, and cl
 
 ## 🧩 Technical Workflow
 
-![Glioma-AI Research Workflow](figure/Research%20Workflow.png)
+![Glioma-AI Research Workflow](figure/Research%20Workflow.jpg)
 
 ### **Step 1 — Data Acquisition & Preprocessing**
 
